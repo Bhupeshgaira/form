@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding:0px
+}
+.outer{
+    height: 100vw;
+    width: 100vw;
+    /* border: 2px solid red; */
+    background: linear-gradient(to top left #3ed8ff #a8f5ff);
+}
+.inner{
+    width:400px;
+    margin:0 auto;
+    
+
+}
